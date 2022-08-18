@@ -117,6 +117,9 @@ input:focus{
 .half-field input.date{
     width: 70px;
 }
+form button{
+  margin-top: 10px;
+}
 .btn{
     background-color: var(--Very-dark-violet);
     color: var(--white);
